@@ -1,2 +1,2 @@
-# Convolutional-Neural-Networks
-Contains some CNN applications
+# Neural-Networks
+Contains some NN applications
